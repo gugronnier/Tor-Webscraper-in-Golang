@@ -2,7 +2,9 @@
 
 ## requirement
 
-This programme require next Golang libraries:
+This program is written in Go so to compile and use it you need install Go language on you computer.
+
+This program also require next Golang libraries:
  - github.com/PuerkitoBio/goquery
  - golang.org/x/net/proxy
  
