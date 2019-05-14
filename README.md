@@ -23,10 +23,9 @@ Or manually with:
 ## [TODO-List]
 
  - name file like `outputPrefix_id-[id].html` or `outputPrefix_pid-[pid].html` and move them into directory named with `outputPrefix`
-
-
  - check if now created page already exist and is different if so we can overwrite it or store it under a subdirectory named like `outputPrefix_id-[id]` or `outputPrefix_pid-[pid]` and each new version end by `(n)` where 'n' is the version number
-
+ - Add ability to automatically crawl an onion website through Tor Network
+ - Add ability to log in onion websites and stay connected in order to crawl in it through Tor Network
 
 ----------------------------------------
 Copyright (C) 2019 Guillaume GRONNIER. All rights reserved
