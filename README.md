@@ -7,9 +7,11 @@ This programme require next Golang libraries:
  - golang.org/x/net/proxy
  
 You can install them automatically with:
+
 	go get -u "github.com/PuerkitoBio/goquery"
 
 Or manually with:
+
 	git clone https://github.com/golang/net/ $GOPATH/src/golang.org/x/net
 	
 ## compilation
