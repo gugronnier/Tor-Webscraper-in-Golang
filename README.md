@@ -4,7 +4,17 @@
 
 This program is written in Go so to compile and use it you need install Go language on you computer.
 
-All required libraries are included if you download all the content of "src" directory into your $GOPATH/src directory
+This program also require next Golang libraries:
+ - github.com/PuerkitoBio/goquery
+ - golang.org/x/net/proxy
+ 
+You can install them automatically with:
+
+	go get -u "github.com/PuerkitoBio/goquery"
+
+Or manually with:
+
+	git clone https://github.com/golang/net/ $GOPATH/src/golang.org/x/net
 	
 ## compilation
 
