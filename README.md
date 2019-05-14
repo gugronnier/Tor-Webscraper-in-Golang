@@ -27,8 +27,6 @@ Or manually with:
 
  - check if now created page already exist and is different if so we can overwrite it or store it under a subdirectory named like `outputPrefix_id-[id]` or `outputPrefix_pid-[pid]` and each new version end by `(n)` where 'n' is the version number
 
- 
-## Copyright & Licences
 
 ----------------------------------------
 Copyright (C) 2019  Guillaume GRONNIER
