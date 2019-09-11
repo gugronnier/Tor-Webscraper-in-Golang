@@ -27,6 +27,12 @@ Or manually with:
  - Add ability to automatically crawl an onion website through Tor Network
  - Add ability to log in onion websites and stay connected in order to crawl in it through Tor Network
 
+## Contributors
+
+| Contributors | Contact address | Employer | Position |
+|:-----------:|:------------:|:------------:|:------------:|
+| Guillaume Gronnier | <gglyon769@gmail.com> | CEIS Cyberdefense | Cyber Thread Intelligence Consultant
+
 ----------------------------------------
 Copyright (C) 2019 Guillaume GRONNIER. All rights reserved
 
